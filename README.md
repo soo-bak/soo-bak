@@ -2,8 +2,8 @@
 ---
 - 🎓 I majored in `Business Administration` and `English Linguistics` at HUFS.
 ---
-- 💻 I’m interested in `Game Design`, `Unity`, `C#`.
-- 😄 I got a Unity GameDev certification.
+- 💻 I’m interested in `Game Design`, `Unity`, `C#`, `C++`.
+- 😄 I got a Unity GameDev certification. (You can verify it by pressing the badge.)
 
 [![unity-certification](./unity-certified-associate-game-developer.png)](https://www.credly.com/badges/50d3c8f2-8214-4f0d-b3d3-6948c5c86501/public_url)
 
@@ -13,6 +13,9 @@
 [![jinchoi's 42 stats](https://badge42.herokuapp.com/api/stats/jinchoi?privacyName=true)](https://profile.intra.42.fr/users/jinchoi)
 
 ---
+- 😎 Everyday, I solve more than one PS at BOJ, Online PS judge site.
+- 🤪 A hobby that gives me a sense of accomplishment.
+- ⚡ Proof of consistent conscientiousness. (If you press the badge, it goes to my BOJ profile site.)
 
 [![solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyou717)](https://solved.ac/profile/jyou717)
 
@@ -32,5 +35,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 🤪
 -->
