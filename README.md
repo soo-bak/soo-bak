@@ -9,17 +9,15 @@
 
 ---
 - 🌱 I’m currently learning in 42 Seoul.
-
+<!--
 [![jinchoi's 42 stats](https://badge42.herokuapp.com/api/stats/jinchoi?privacyName=true)](https://profile.intra.42.fr/users/jinchoi)
-
+-->
 ---
 - 😎 Everyday, I solve more than one PS at BOJ, Online PS judge site.
 - 🤪 A hobby that gives me a sense of accomplishment.
 - ⚡ Proof of consistent conscientiousness. (If you press the badge, it goes to my BOJ profile site.)
 
 [![solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyou717)](https://solved.ac/profile/jyou717)
-
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyou717&theme=warm)](https://solved.ac/profile/jyou717)
 
 <!--
 **soo-bak/soo-bak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
