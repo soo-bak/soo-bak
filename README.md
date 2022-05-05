@@ -9,9 +9,8 @@
 
 ---
 - 🌱 I’m currently learning in 42 Seoul.
-<!--
-[![jinchoi's 42 stats](https://badge42.herokuapp.com/api/stats/jinchoi?privacyName=true)](https://profile.intra.42.fr/users/jinchoi)
--->
+
+[![jinchoi's 42 stats](https://badge42.vercel.app/api/v2/cl2t70h22003009l8p6l76hr7/stats?cursusId=21&coalitionId=86)](https://profile.intra.42.fr/users/jinchoi)
 ---
 - 😎 Everyday, I solve more than one PS at BOJ, Online PS judge site.
 - 🤪 A hobby that gives me a sense of accomplishment.
