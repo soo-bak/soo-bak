@@ -9,7 +9,7 @@
     - Communication with relevant departments and project schedule management.
   - <b>[Online retail business]</b> - <i>present</i>
     - co-representative
-  - <b>[Woori bank, Loan counselor]</b> - <i>present</i>
+  - <b>[Woori Bank, Loan counselor]</b> - <i>present</i>
 
 - And... I'm very interested in `Game Design`, currently.
 
