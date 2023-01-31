@@ -11,7 +11,7 @@
     - co-representative
   - <b>[Woori bank, Loan counselor]</b> - <i>present</i>
 
-- And... I'm very interested in `game design`, currently.
+- And... I'm very interested in `Game Design`, currently.
 
 ---
 - 💻 I’m interested in `Game Design`, `Unity`, `C#`, `C++`.
