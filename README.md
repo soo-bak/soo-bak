@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-- 🎓 I majored in `Business Administration` and `English Linguistics` at HUFS.
+- 🎓 I majored in `Business Administration` and `English Linguistics` at <b>HUFS</b>.
 
 - <b>[Industrial Bank of Korea, IBK]</b>
   - Internship, Bank window customer consultation and sales assistance.
