@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 - 🎓 I majored in `Business Administration` and `English Linguistics` at <b>HUFS</b>.
-I'm very interested in `Game Design`.
+- I'm very interested in `Game Design`.
 
 ---
 - 💻 I’m interested in `Game Design`, `Unity`, `C#`, `C++`.
