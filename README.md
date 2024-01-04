@@ -1,17 +1,7 @@
 ### Hi there 👋
 ---
 - 🎓 I majored in `Business Administration` and `English Linguistics` at <b>HUFS</b>.
-
-- <b>[Industrial Bank of Korea, IBK]</b>
-  - Internship, Bank window customer consultation and sales assistance.
-- <b>[WEBZEN]</b>
-  - Project Manager, making Game Business Model of the 'Mu Origin 2'.
-  - Communication with relevant departments and project schedule management.
-- <b>[Online retail business, co-representative]</b> - <i>present</i>
-- <b>[Woori Bank, Loan counselor]</b> - <i>present</i>
-- <b>[HongLab, Q&A assistant]</b> - <i>present</i>
-
-And... I'm very interested in `Game Design`.
+- I'm very interested in `Game Design`.
 
 ---
 - 💻 I’m interested in `Game Design`, `Unity`, `C#`, `C++`.
