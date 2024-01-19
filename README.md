@@ -10,10 +10,8 @@
 [![unity-certification](./unity-certified-associate-game-developer.png)](https://www.credly.com/badges/50d3c8f2-8214-4f0d-b3d3-6948c5c86501/public_url)
 
 ---
-- 🌱 I’m currently learning in 42 Seoul.
-
-[![jinchoi's 42 stats](https://badge42.vercel.app/api/v2/cl2t70h22003009l8p6l76hr7/stats?cursusId=21&coalitionId=86)](https://profile.intra.42.fr/users/jinchoi)
-
+- 🎮 Game Desingner
+- 🌱 Junior Gamesoftware Engineer-Client
 ---
 - 😎 Everyday, I solve more than one PS at BOJ.
 - 🤪 A hobby that gives me a sense of accomplishment.
