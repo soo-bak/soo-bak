@@ -4,12 +4,6 @@
 - I'm very interested in `Game Design`.
 
 ---
-- 💻 I’m interested in `Game Design`, `Unity`, `C#`, `C++`.
-- 😄 I got a Unity GameDev certification.
-
-[![unity-certification](./unity-certified-associate-game-developer.png)](https://www.credly.com/badges/50d3c8f2-8214-4f0d-b3d3-6948c5c86501/public_url)
-
----
 - 🎮 Game Desingner
 - 🌱 Junior Gamesoftware Engineer-Client
 ---
@@ -18,7 +12,7 @@
 - ⚡ Proof of consistent conscientiousness.
 
 [![solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyou717)](https://solved.ac/profile/jyou717)
-
+[![unity-certification](./unity-certified-associate-game-developer.png)](https://www.credly.com/badges/50d3c8f2-8214-4f0d-b3d3-6948c5c86501/public_url)
 <!--
 **soo-bak/soo-bak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
