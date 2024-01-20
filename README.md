@@ -5,7 +5,7 @@
 
 ---
 - 🎮 Game Desingner
-- 🌱 Junior Gamesoftware Engineer-Client
+- 🌱 Junior GameSoftware Engineer-Client
 ---
 - 😎 Everyday, I solve more than one PS at BOJ.
 - 🤪 A hobby that gives me a sense of accomplishment.
