@@ -31,7 +31,7 @@
 
 [![unity-certification](./unity-certified-associate-game-developer.png)](https://www.credly.com/badges/50d3c8f2-8214-4f0d-b3d3-6948c5c86501/public_url)
 
-- 🧩 **Languages**: C, C++, C#, Python , JS, TS
+- 🧩 **Languages**: C, C++, C#, Python, JS, TS
 - 🔧 **Tools**: Unity (Profiler, URP, Addressables, Shader Graph), Firebase, AWS, Git, Docker, Jenkins, Linux, Shell, ...
 - 🧵 **Soft Skills**: Consistent, Curious, Creative
 
