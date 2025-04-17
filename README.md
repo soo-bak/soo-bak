@@ -1,31 +1,42 @@
 ### Hi there 👋
----
-- 🎓 I majored in `Business Administration` and `English Linguistics` at <b>HUFS</b>.
-- I'm very interested in `Game Design`.
 
 ---
-- 🎮 Game Desingner
-- 🌱 Junior GameSoftware Engineer-Client
+
+🎓 I majored in **Business Administration** and **English Linguistics** at **HUFS** (Hankuk University of Foreign Studies).<br>
+🚀 Proud Alumnus of 42 Seoul, where I deepened my foundation in low-level programming, algorithms, and system architecture.<br>
+🎮 Currently pursuing my passion as a **Game Designer**, blending creativity with logic.
+
 ---
-- 😎 Everyday, I solve more than one PS at BOJ.
-- 🤪 A hobby that gives me a sense of accomplishment.
-- ⚡ Proof of consistent conscientiousness.
+
+### 💡 About Me
+
+- 🕹️ **Game Developer**  
+- 🧠 Fascinated by the intersection of **game design**, **psychology**, and **user experience**  
+- 🔍 Constantly exploring how games can **entertain**, **heal**, and **motivate**  
+- ✍️ I enjoy writing about problem-solving and development insights on [my blog](https://soo-bak.github.io)
+
+---
+
+### 🧩 Daily Problem Solver
+
+- 💪 I solve **at least one algorithm problem a day** on [BOJ](https://solved.ac/profile/jyou717)
+- 📈 Proving my consistency and passion with every submission  
+- 🤓 PS is my version of daily mindfulness – both fun and fulfilling  
 
 [![solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyou717)](https://solved.ac/profile/jyou717)
+
+---
+
+### 🛠️ Certifications & Skills
+
 [![unity-certification](./unity-certified-associate-game-developer.png)](https://www.credly.com/badges/50d3c8f2-8214-4f0d-b3d3-6948c5c86501/public_url)
-<!--
-**soo-bak/soo-bak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![jyou717](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=jyou717&theme=onedark&size=small&compact=1&use_back_color=1&use_border=0&use_shadow=1)](https://solved.ac/profile/jyou717)
+- 🧩 **Languages**: C, C++, C#, Python , JS, TS
+- 🔧 **Tools**: Unity (Profiler, URP, Addressables, Shader Graph), Firebase, AWS, Git, Docker, Jenkins, Linux, Shell, ...
+- 🧵 **Soft Skills**: Consistent, Curious, Creative
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 🤪
--->
+### ☕ Let’s Connect
+
+Always happy to share, learn, and collaborate.<br>
