@@ -10,7 +10,7 @@
 
 ### 💡 About Me
 
-- 🕹️ **Game Developer**  
+- 🕹️ **Game Designer**  
 - 🧠 Fascinated by the intersection of **game design**, **psychology**, and **user experience**  
 - 🔍 Constantly exploring how games can **entertain**, **heal**, and **motivate**  
 - ✍️ I enjoy writing about problem-solving and development insights on [my blog](https://soo-bak.github.io)
