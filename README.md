@@ -3,7 +3,7 @@
 ---
 
 🎓 I majored in **Business Administration** and **English Linguistics** at **HUFS** (Hankuk University of Foreign Studies).<br>
-🚀 Proud Alumnus of 42 Seoul, where I deepened my foundation in low-level programming, algorithms, and system architecture.<br>
+🚀 42 Seoul alumnus with deep roots in system-level programming, algorithmic problem-solving, and architectural thinking — now blending those skills into creative game design <br>
 🎮 Currently pursuing my passion as a **Game Designer**, blending creativity with logic.
 
 ---
